@@ -37,36 +37,30 @@ I'm a Computer Science student interested in **Python development, automation, A
 
 ## Selected projects
 
+
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>🌧️ Rain Alert</h3>
-      A Python automation project that checks weather data and sends email alerts when rain is expected. Includes scheduled runs with GitHub Actions.
-      <br/><br/>
-      <a href="https://github.com/Saleha78/rain-alert">View repository →</a>
+      A Python automation project that checks weather data and sends personalized email alerts when rain is expected. Includes scheduled execution using GitHub Actions.
     </td>
     <td width="50%" valign="top">
       <h3>🎂 Birthday Wisher</h3>
-      A Python automation project for sending birthday wishes by email.
-      <br/><br/>
-      <a href="https://github.com/Saleha78/birthday-wisher-automation">View repository →</a>
+      A Python automation project that sends birthday wishes by email, using date-based conditions and automated execution.
     </td>
   </tr>
   <tr>
-  <td width="50%" valign="top">
-    <h3>🎵 Musical Time Machine</h3>
-    A Python project that uses Billboard chart data to find songs from a selected date and builds a nostalgic Spotify playlist.
-    <br/><br/>
-    <a href="https://github.com/Saleha78/musical-time-machine">View repository →</a>
-  </td>
+    <td width="50%" valign="top">
+      <h3>🎵 Musical Time Machine</h3>
+      A Python project that uses Billboard chart data to find songs from a selected date and create a nostalgic Spotify playlist.
+    </td>
     <td width="50%" valign="top">
       <h3>🛰️ ISS Overhead Notifier</h3>
-      A Python project using APIs to check when the International Space Station is nearby and whether it is dark enough to spot.
-      <br/><br/>
-      <em>More projects are available on my GitHub profile.</em>
+      A Python project that uses APIs to check when the International Space Station is nearby and determines whether nighttime conditions are suitable for spotting it.
     </td>
   </tr>
 </table>
+
 
 ## Experience
 
