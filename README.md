@@ -79,10 +79,31 @@ I'm a Computer Science student interested in **Python development, automation, A
 
 ## GitHub
 
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Saleha78&show_icons=true&hide_border=true&bg_color=0D1020&title_color=B7A5FF&icon_color=9B8AFB&text_color=E6E2F5&rank_icon=github" alt="GitHub profile stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saleha78&layout=compact&hide_border=true&bg_color=0D1020&title_color=B7A5FF&text_color=E6E2F5" alt="Most used languages" />
+<br/>
+      <sub>Applications and automation</sub>
+    </td>
+    <td align="center" width="50%">
+      <h2>4</h2>
+      <b>Data Dashboards</b>
+      <br/>
+      <sub>Built during internship</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h2>2</h2>
+      <b>Automation Workflows</b>
+      <br/>
+      <sub>Rain alerts and birthday emails</sub>
+    </td>
+    <td align="center" width="50%">
+      <h2>11</h2>
+      <b>GitHub Stars</b>
+      <br/>
+      <sub>Across your repositories</sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
