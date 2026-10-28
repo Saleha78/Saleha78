@@ -17,10 +17,10 @@
 
 I'm a Computer Science student interested in **Python development, automation, API integration, and data analytics**. I enjoy building small projects that solve practical problems and improving them as I learn.
 
-- 🎓 B.Tech in Computer Science — NSHM Knowledge Campus, Durgapur
-- 💼 Former Data Analyst Intern at Aminrup Technologies
-- 🌱 Currently learning Selenium and strengthening my Python skills
-- 🎯 Interested in entry-level Python Developer and Software Developer opportunities
+- 🎓 **Education:** B.Tech in Computer Science, NSHM Knowledge Campus, Durgapur
+- 💼 **Experience:** Data Analyst Intern at Aminrup Technologies
+- 🐍 **Technical Focus:** Python development, API integration, and workflow automation
+- 📊 **Data Skills:** SQL, Apache Superset, and dashboard development
 
 ## Tech I work with
 
