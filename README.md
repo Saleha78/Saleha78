@@ -53,12 +53,12 @@ I'm a Computer Science student interested in **Python development, automation, A
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3>🌐 Personal Portfolio</h3>
-      A personal website project to present my profile, skills, and work.
-      <br/><br/>
-      <a href="https://github.com/Saleha78/saleha-portfolio">View repository →</a>
-    </td>
+  <td width="50%" valign="top">
+    <h3>🎵 Musical Time Machine</h3>
+    A Python project that uses Billboard chart data to find songs from a selected date and builds a nostalgic Spotify playlist.
+    <br/><br/>
+    <a href="https://github.com/Saleha78/musical-time-machine">View repository →</a>
+  </td>
     <td width="50%" valign="top">
       <h3>🛰️ ISS Overhead Notifier</h3>
       A Python project using APIs to check when the International Space Station is nearby and whether it is dark enough to spot.
