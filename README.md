@@ -52,7 +52,6 @@ I'm a Computer Science student interested in **Python development, automation, A
       <img src="https://img.shields.io/badge/SMTP-Email_Alerts-6C63FF?style=flat-square" />
       <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
       <br/><br/>
-      <a href="https://github.com/Saleha78/rain-alert">View repository →</a>
     </td>
     <td width="50%" valign="top">
       <h3>🎂 Birthday Wisher</h3>
@@ -62,7 +61,6 @@ I'm a Computer Science student interested in **Python development, automation, A
       <img src="https://img.shields.io/badge/SMTP-Email_Automation-6C63FF?style=flat-square" />
       <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
       <br/><br/>
-      <a href="https://github.com/Saleha78/birthday-wisher-automation">View repository →</a>
     </td>
   </tr>
   <tr>
@@ -74,7 +72,6 @@ I'm a Computer Science student interested in **Python development, automation, A
       <img src="https://img.shields.io/badge/Beautiful_Soup-Web_Scraping-4B8BBE?style=flat-square" />
       <img src="https://img.shields.io/badge/Spotify-API-1DB954?style=flat-square&logo=spotify&logoColor=white" />
       <br/><br/>
-      <em>In Progress</em>
     </td>
     <td width="50%" valign="top">
       <h3>🛰️ ISS Overhead Notifier</h3>
