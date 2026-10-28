@@ -1,95 +1,222 @@
-# Hey, I'm Saleha Sanober 👋
+<!-- ✦ SALEHA SANOBER | GITHUB PROFILE README ✦ -->
 
-### 💻 Python Developer in Progress | Automation Enthusiast | CSE Student
+<div align="center">
 
-I enjoy turning ideas into practical projects using Python. From automating everyday tasks to integrating APIs and building useful applications, I'm focused on learning by building and improving my problem-solving skills one project at a time.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Saleha+Sanober+%F0%9F%91%8B;Python+Developer+in+Progress+%F0%9F%90%8D;Automation+%7C+APIs+%7C+Data+Analytics;Learning.+Building.+Leveling+Up." alt="Typing SVG" />
 
-- 🎓 B.Tech in Computer Science & Engineering
-- 🐍 Currently strengthening my Python and Selenium skills
-- ⚙️ Interested in Python Development, Automation, Data Analytics, and AI
-- 🌱 Learning by building real-world projects
-- 🚀 Working toward my first software development opportunity
+### `Computer Science Student` · `Python Developer` · `Automation Enthusiast`
 
----
+*Turning ideas into useful code, one project at a time.*
 
-## 🛠️ Tech Stack
+<a href="https://github.com/Saleha78"><img src="https://img.shields.io/badge/GitHub-Saleha78-181717?style=for-the-badge&logo=github" /></a>
+<a href="https://www.linkedin.com/in/saleha-sanober-5843b0293/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+<img src="https://komarev.com/ghpvc/?username=Saleha78&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" />
 
-**Languages & Fundamentals**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-**Tools & Technologies**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![APIs](https://img.shields.io/badge/REST_APIs-6C63FF?style=for-the-badge&logo=fastapi&logoColor=white)
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## `01` — A little about me
 
-### 🌧️ [Rain Alert Automation](https://github.com/Saleha78/rain-alert)
+```python
+class Saleha:
+    education = "B.Tech in Computer Science & Engineering"
+    focus = ["Python Development", "Automation", "Data Analytics"]
+    currently_learning = ["Python", "Selenium", "Problem Solving"]
+    interests = ["APIs", "Useful Automation", "AI-assisted Development"]
+    mindset = "Learn it. Build it. Improve it."
 
-A Python automation project that checks weather data using an API and sends email alerts when rain is expected.
+    def goal(self):
+        return "Build practical software and grow as a developer."
+```
 
-- 🌦️ Weather API integration
-- 📧 Automated email notifications
-- 🔐 Environment variables and GitHub Secrets
-- ⏰ Scheduled execution using GitHub Actions
+I'm a Computer Science student who enjoys learning by building real projects. I like using Python to automate repetitive tasks, connect applications through APIs, and turn concepts into working applications.
 
-### 🎂 [Birthday Wisher Automation](https://github.com/Saleha78/birthday-wisher-automation)
+I've also gained experience with SQL and dashboard development during my Data Analyst internship. I'm continuing to strengthen my programming fundamentals and explore new tools through hands-on practice.
 
-An automated birthday email system that uses stored birthday information and personalized message templates to send birthday wishes.
+- 🐍 Building projects with Python
+- ⚙️ Exploring browser automation and scheduled workflows
+- 📊 Experience with SQL and Apache Superset dashboards
+- 🌱 Improving my coding skills through consistent practice
+- 🎯 Interested in entry-level software development and data-related opportunities
 
-- 📂 CSV-based birthday records
-- ✉️ Email automation with Python
-- 📝 Personalized message templates
-- ⚙️ Scheduled GitHub Actions workflow
+---
 
-### 🌐 [Personal Portfolio Website](https://github.com/Saleha78/saleha-portfolio)
+## `02` — Tech stack & tools
 
-A personal portfolio project showcasing my developer identity, projects, and technical journey through a modern web interface.
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,mysql,html,css&theme=dark" alt="Python, MySQL, HTML and CSS" />
+
+**Development & Version Control**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm&theme=dark" alt="Git, GitHub, VS Code and PyCharm" />
+
+**Libraries, Services & Platforms**
+
+<img src="https://img.shields.io/badge/Requests-2E8B57?style=flat-square" />
+<img src="https://img.shields.io/badge/BeautifulSoup-4B8B3B?style=flat-square" />
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_APIs-6C63FF?style=flat-square" />
+<img src="https://img.shields.io/badge/SMTP_Email-64748B?style=flat-square" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache_Superset-20A6C9?style=flat-square&logo=apachesuperset&logoColor=white" />
+<img src="https://img.shields.io/badge/.env_Configuration-525252?style=flat-square" />
+
+</div>
+
+---
+
+## `03` — Featured projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌧️ Rain Alert Automation
+
+**Python · APIs · Email · GitHub Actions**
+
+A weather-alert automation project that checks forecast data and sends email notifications when rain is expected.
+
+- Weather API integration
+- Automated email notifications
+- Scheduled runs with GitHub Actions
+- Secrets and environment-variable configuration
+
+[**↗ View repository**](https://github.com/Saleha78/rain-alert)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎂 Birthday Wisher
+
+**Python · CSV · SMTP · Automation**
+
+An automated birthday-wishing project that uses birthday records and personalized email messages.
+
+- Reads birthday data from a CSV file
+- Selects a suitable birthday message
+- Sends emails automatically
+- Uses a scheduled workflow
+
+[**↗ View repository**](https://github.com/Saleha78/birthday-wisher-automation)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Personal Portfolio
+
+**Web Development · UI · GitHub**
+
+A personal portfolio project for presenting my developer profile, projects, and technical journey.
+
+- Personal branding
+- Project showcase
+- Web interface experimentation
+
+[**↗ View repository**](https://github.com/Saleha78/saleha-portfolio)
+
+</td>
+<td width="50%" valign="top">
 
 ### 🛰️ ISS Overhead Notifier
 
-A Python project that checks the International Space Station's location and uses sunrise and sunset information to help determine when it may be visible overhead.
+**Python · APIs · Conditional Logic**
+
+A project that combines International Space Station location data with sunrise and sunset information to help determine when the ISS may be visible overhead.
+
+- API requests and response handling
+- Location and time-based conditions
+- Automated notification logic
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌦️ Rain Alert & Email Personalization
+
+**Python · SMTP · Message Templates**
+
+A practical extension of my automation work, focused on making notification emails more personal and useful for their recipients.
+
+</td>
+<td width="50%" valign="top">
 
 ### 🔐 Password Manager
 
-A Python GUI project for storing and managing passwords, built as part of my Python learning journey.
+**Python · GUI · Data Handling**
+
+A learning project focused on creating a graphical interface for storing and managing password entries.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Overview
+## `04` — Experience
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saleha78&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
+### 📊 Data Analyst Intern — Aminrup Technologies
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saleha78&layout=compact&theme=tokyonight&hide_border=true)
+*September 2025 – March 2026*
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Saleha78&theme=tokyonight&hide_border=true)
+- Worked with SQL to explore and query data.
+- Built four dashboards using Apache Superset.
+- Presented dashboard insights and findings.
+- Practised data analysis and communicating results.
 
----
+### 🎓 AICTE Virtual Internship
 
-## 🌱 What I'm Working Toward
-
-- Writing cleaner, more reliable Python code
-- Building automation projects that solve practical problems
-- Improving my SQL and data analysis skills
-- Learning web automation with Selenium
-- Exploring AI-assisted development and new technologies
+Completed a virtual internship experience as part of my technical learning journey.
 
 ---
 
-## 🤝 Let's Connect
+## `05` — GitHub analytics
 
-I'm always interested in learning, collaborating on projects, and exploring internship opportunities in Python development and related fields.
+<div align="center">
 
-📌 **GitHub:** [@Saleha78](https://github.com/Saleha78)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Saleha78&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saleha78&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Most used languages" />
+
+</div>
 
 ---
 
-*✨ Learn consistently. Build practically. Improve continuously.*
+## `06` — Currently exploring
+
+<div align="center">
+
+| Area | My focus |
+|:---|:---|
+| 🐍 Python | Stronger fundamentals and cleaner code |
+| 🤖 Selenium | Browser automation and web interactions |
+| 📊 Data Analytics | SQL queries and dashboard insights |
+| ⚙️ Automation | APIs, email workflows and scheduled scripts |
+| 🧠 AI | Exploring practical ways to use AI in development |
+
+</div>
+
+---
+
+## `07` — Beyond the code
+
+I believe progress comes from building things, debugging them, and understanding why they work.
+
+I'm interested in collaborating on beginner-friendly projects, learning from experienced developers, and finding opportunities where I can contribute while continuing to grow.
+
+<div align="center">
+
+### ✦ Learn continuously. Build meaningfully. Grow confidently. ✦
+
+<a href="https://github.com/Saleha78?tab=repositories"><img src="https://img.shields.io/badge/Explore_My_Repositories-8B5CF6?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+**Thanks for visiting my profile! 💜**
+
+</div>
