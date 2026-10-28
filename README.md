@@ -38,28 +38,55 @@ I'm a Computer Science student interested in **Python development, automation, A
 ## Selected projects
 
 
+
+<h2 align="center">🚀 Featured Projects</h2>
+
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>🌧️ Rain Alert</h3>
-      A Python automation project that checks weather data and sends personalized email alerts when rain is expected. Includes scheduled execution using GitHub Actions.
+      A Python automation project that checks weather forecasts and sends personalized email alerts when rain is expected. Uses scheduled GitHub Actions workflows for automated execution.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/OpenWeather_API-EB6E4B?style=flat-square&logo=icloud&logoColor=white" />
+      <img src="https://img.shields.io/badge/SMTP-Email_Alerts-6C63FF?style=flat-square" />
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+      <br/><br/>
+      <a href="https://github.com/Saleha78/rain-alert">View repository →</a>
     </td>
     <td width="50%" valign="top">
       <h3>🎂 Birthday Wisher</h3>
-      A Python automation project that sends birthday wishes by email, using date-based conditions and automated execution.
+      A Python automation project that sends birthday wishes by email using date-based conditions and scheduled execution.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/SMTP-Email_Automation-6C63FF?style=flat-square" />
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+      <br/><br/>
+      <a href="https://github.com/Saleha78/birthday-wisher-automation">View repository →</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🎵 Musical Time Machine</h3>
-      A Python project that uses Billboard chart data to find songs from a selected date and create a nostalgic Spotify playlist.
+      A Python project that retrieves Billboard chart data for a selected date and helps create a nostalgic Spotify playlist.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Beautiful_Soup-Web_Scraping-4B8BBE?style=flat-square" />
+      <img src="https://img.shields.io/badge/Spotify-API-1DB954?style=flat-square&logo=spotify&logoColor=white" />
+      <br/><br/>
+      <em>In Progress</em>
     </td>
     <td width="50%" valign="top">
       <h3>🛰️ ISS Overhead Notifier</h3>
-      A Python project that uses APIs to check when the International Space Station is nearby and determines whether nighttime conditions are suitable for spotting it.
+      A Python project that uses APIs and location-based conditions to check whether the International Space Station is nearby and whether it is dark enough to spot.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/REST_API-Integration-6C63FF?style=flat-square" />
+      <img src="https://img.shields.io/badge/Email-Notifications-EA4335?style=flat-square&logo=gmail&logoColor=white" />
     </td>
   </tr>
 </table>
+
 
 
 ## Experience
