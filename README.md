@@ -97,13 +97,6 @@ I'm a Computer Science student interested in **Python development, automation, A
 
 ## GitHub
 
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Saleha78&include_all_commits=true&show_icons=true&hide_border=true&bg_color=0D1020&title_color=B7A5FF&icon_color=9B8AFB&text_color=E6E2F5&hide_rank=true" alt="GitHub commits, stars and contributions" />
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saleha78&layout=compact&hide_border=true&bg_color=0D1020&title_color=B7A5FF&text_color=E6E2F5&langs_count=6" alt="Most used programming languages" />
-
-</div>
 
 ---
 
