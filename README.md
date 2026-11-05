@@ -95,10 +95,7 @@ I'm a Computer Science student interested in **Python development, automation, A
 - Built four dashboards to present data insights.
 - Presented dashboard findings to stakeholders.
 
-## GitHub
 
-
----
 
 <div align="center">
 
